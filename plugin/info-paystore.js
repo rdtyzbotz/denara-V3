@@ -1,11 +1,11 @@
 let handler = async (m, { conn }) => {
 	//-----PRICE
 //sewa
-let sh = '5'
-let sn = '15'
+misalkan  sh  =  '10'
+misalkan  sn  =  '20'
 let ss = '30'
-let sp = '35'
-let sv = '65'
+misalkan  sp  =  '40'
+misalkan  sv  =  '75'
 //premium
 let ph = '5'
 let pn = '20'
