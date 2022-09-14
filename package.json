@@ -1,7 +1,7 @@
 {
-    "name": "wh-mods-dev",
+    "nama" : "Denara-Bot" ,
     "version": "3.0.0",
-    "description": "WhatsApp BOT By wahid",
+    "deskripsi" : "WhatsApp BOT By Denara" ,
     "main": "index.js",
     "type": "module",
     "directories": {
